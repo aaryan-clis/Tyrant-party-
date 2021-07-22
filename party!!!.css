@@ -1,0 +1,64 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-shadow: 0px 2px 25px blue;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 55px;
+    font-style: italic;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    background-color:lightgray;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin-left: 40px;
+    }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color:whitesmoke;
+  }
+  p{
+   font-size: 20px;    
+   color: cyan;
+   text-align: center;
+   background-color: black;
+    font-size: 20px;
+}
+button{
+    margin-left: 690px;
+    margin-top: 20px;
+    height: 70px;
+    width: 125px;
+    color: darkkhaki;
+    background-color: #000;
+}
+h2{
+    color: darkorchid;
+    background-color: aqua;
+    width: 105px;
+    font-size: 40px;
+    margin-left: 698px;
+    
+}
+h3{
+    color: lightsteelblue;
+    margin-left: 588px;
+
+}
